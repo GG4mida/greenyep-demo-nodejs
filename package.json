@@ -1,0 +1,24 @@
+{
+  "name": "greenyep-demo-nodejs",
+  "version": "2.0.0",
+  "description": "greenyep nodejs(express) demo",
+  "main": "index.js",
+  "author": "greenyep",
+  "repository": "https://github.com/GG4mida/greenyep-demo-nodejs.git",
+  "homepage": "https://greenyep.com",
+  "license": "ISC",
+  "scripts": {
+    "start": "node-dev index.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.0",
+    "body-parser": "^1.19.0",
+    "ejs": "^2.7.1",
+    "express": "^4.17.1",
+    "md5-node": "^1.0.1",
+    "qs": "^6.9.4"
+  },
+  "devDependencies": {
+    "node-dev": "^3.1.3"
+  }
+}
