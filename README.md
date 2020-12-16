@@ -15,13 +15,13 @@
 
 订单页：
 
-![transaction](https://github.com/gg4mida/greenyep-demo-nodejs/raw/main/screen/trans.png)
+<img src="https://github.com/GG4mida/greenyep-demo-nodejs/blob/main/screen/trans.png?raw=true" width="360" alt="订单页截图">
 
 提交订单，会跳转至官方收银台（也可以使用接口返回的数据，自定义收银台。）
 
 官方收银台：
 
-![cashier](https://github.com/gg4mida/greenyep-demo-nodejs/raw/main/screen/cashier.png)
+<img src="https://github.com/GG4mida/greenyep-demo-nodejs/blob/main/screen/cashier.png?raw=true" width="360" alt="收银台截图">
 
 ## 接入文档
 
